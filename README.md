@@ -13,7 +13,7 @@ For the presentation component, the student had to create four slides, and each 
 
 ### Project Submission
 
-[Check My Project Submission]()
+[Check My Project Submission](https://github.com/wildgoosetamer/Programming_for_Data_Science/blob/master/Sakila%20Movie%20Database/Abhimanyu%20SQL%20submission.pdf)
 
 ### Question Sets
 
