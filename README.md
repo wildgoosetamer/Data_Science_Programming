@@ -18,7 +18,7 @@ For the presentation component, the student had to create four slides, and each 
 ### Question Sets
 
 A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission.
-[Check this out]()
+[Check this out](https://github.com/wildgoosetamer/Programming_for_Data_Science/tree/master/Sakila%20Movie%20Database/Project%20Question)
 
 ## Project 2
 
